@@ -1,0 +1,21 @@
+{
+    "name": "Muhammad Verel Portfolio",
+    "short_name": "Verel",
+    "description": "Full Stack Web Developer with AI-Assisted expertise",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/profile.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/profile.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
