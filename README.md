@@ -6,7 +6,7 @@ A modern, Notion-inspired portfolio website built with React, Vite, and Tailwind
 
 ## 🚀 Live Demo
 
-[verel.dev](https://verel.dev) *(coming soon)*
+[https://portfolio-verel.web.app/](https://portfolio-verel.web.app/)
 
 ## ✨ Features
 
