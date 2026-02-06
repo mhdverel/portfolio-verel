@@ -6,10 +6,10 @@ const WorkExperience = () => {
             period: 'Jan 2021 - Nov 2025',
             description: 'Meta Ads advertiser helping businesses drive website traffic and conversions through strategic digital campaigns.',
             responsibilities: [
-                'Campaign setup and audience targeting',
-                'A/B testing and optimization',
-                'Performance analytics and reporting',
-                'Budget management and ROI tracking'
+                'Managed SEO-based content to improve website visibility.',
+                'Managed Facebook Ads campaigns focusing on traffic and engagement.',
+                'Designed digital announcement systems to support public services.',
+                'Assisted operational activities and digital transformation within the institution.'
             ],
             emoji: '📈'
         },
@@ -19,8 +19,8 @@ const WorkExperience = () => {
             period: 'Jan 2023 - Feb 2023',
             description: 'Built a WhatsApp Gateway system using third-party API for automated communications and reminders.',
             responsibilities: [
-                'Developed reminder system for expiring KIR certificates',
-                'Implemented public announcement broadcasting',
+                'Developed a web-based automation system using Laravel.',
+                'Integrated third-party WhatsApp API for automated notifications and reminders',
                 'Integrated third-party WhatsApp API',
                 'Created admin dashboard for message management'
             ],

@@ -4,7 +4,7 @@ const Testimonial = () => {
       name: 'Bima Yanuar Dewanata',
       role: 'Founder at DOGTOWNLADS',
       avatar: '👨🏻‍🎤',
-      text: 'Gue butuh website yang bisa ngewakilin vibe streetwear culture kita, bukan template korporat yang kaku. Verel ngerti banget apa yang gue mau—dari flow checkout yang seamless sampe dashboard admin yang bikin hidup gue lebih gampang. Orangnya responsif, nggak banyak drama, dan yang penting: hasil kerjanya ngomong sendiri.',
+      text: 'Aku butuh website yang benar-benar mewakili vibe streetwear culture kami, bukan template korporat yang kaku. Verel cepat nangkap apa yang aku mau, dari flow checkout sampai dashboard admin yang bikin operasional jadi lebih simpel. Komunikasinya enak, responsif, dan hasil akhirnya sesuai ekspektasi.',
     },
   ]
 
